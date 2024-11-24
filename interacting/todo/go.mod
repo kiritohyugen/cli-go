@@ -1,3 +1,3 @@
-module pragprog.com/rggo/interacting/todo
+module kiritohyugen/rggo/interacting/todo
 
 go 1.23.2

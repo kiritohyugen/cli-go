@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"pragprog.com/rggo/interacting/todo"
+	"kiritohyugen/rggo/interacting/todo"
 )
 
 func TestAdd(t *testing.T) {
